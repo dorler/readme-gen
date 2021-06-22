@@ -1,12 +1,15 @@
 
   #Readme Generator
-   a backend readmegenerator 
+   A backend readme creator  
   
   #Installation Requirements
-  -node and json
+  -please install node and the json package
 
   #Usage Information
-  -to generate quick and effective readmes
+  -Generates quick readmes for developers to save time on their projects
 
   #Test Instructions
-  -please watch the following video 
+  -pass 
+  
+  #questions
+  -dorler

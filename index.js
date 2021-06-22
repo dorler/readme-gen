@@ -33,6 +33,11 @@ const questions = [
         message:"Please enter application test instructions:",
         name:"testInstructions",
     },
+    {
+        type: "input",
+        message:"Please enter your Github username:",
+        name:"githubUsername",
+    }
 ];
 
 // TODO:Prompt the questions and store the data in readme file

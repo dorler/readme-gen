@@ -12,6 +12,9 @@ function generateMarkdown(data) {
 
   #Test Instructions
   -${data.testInstructions} 
+  
+  #Questions
+  -${data.githubUsername}
 `;
 }
 

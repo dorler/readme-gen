@@ -15,6 +15,7 @@ function generateMarkdown(data) {
   
   #Questions
   -${data.githubUsername}
+  -${data.emailAddress}
 `;
 }
 

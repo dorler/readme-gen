@@ -18,6 +18,12 @@ const questions = [
         name: "description" ,
     },
     {
+        type: "list",
+        message: "what license?",
+        choices: ["MIT", 'Apache 2.0', 'BSD 3', 'GPL 3.0'],
+        name: "license"
+    },
+    {
         type: "input",
         message: "what are the installation requirements? ",
         name: "installationRequirements",

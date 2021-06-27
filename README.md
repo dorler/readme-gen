@@ -1,15 +1,40 @@
 
-  #Readme Generator
-   A backend readme creator  
-  
-  #Installation Requirements
-  -please install node and the json package
+# Sample Readme Generator
 
-  #Usage Information
-  -Generates quick readmes for developers to save time on their projects
+* [Installation](#installation)
+* [Usage](#usage)
+* [Credits](#credits)
+* [License](#license)
 
-  #Test Instructions
-  -pass 
-  
-  #questions
-  -dorler
+a readme generator that is created through the command line. 
+
+## License
+
+MIT
+![MIT](https://img.shields.io/badge/license-MIT-blue.svg)
+
+## Installation
+
+```
+Node 
+```
+
+## Usage
+
+To create simple easy to use readme's and reduce time. 
+
+## Test Instructions
+
+```
+open commandline, type node index.js, follow prompt questions 
+```
+
+## Questions
+
+```
+Github: dorler 
+```
+
+```
+Email Address: debbieorler@gmail.com
+```
